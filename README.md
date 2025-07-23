@@ -22,4 +22,4 @@
 - 🔗 [Air Flight Management System](https://github.com/tibdewalchahak/Air-Flight-Management-System) — Implemented using Linked List and AVL Trees to manage bookings and operations
 
 ## 📫 Connect:
-[LinkedIn](www.linkedin.com/in/chahak-tibdewal-012149262) 
+[LinkedIn](https://www.linkedin.com/in/chahak-tibdewal-012149262/) 
