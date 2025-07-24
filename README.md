@@ -19,7 +19,7 @@
 - 🔗 [Real Estate Rental MERN App](https://github.com/tibdewalchahak/Real_Estate_Rental_MERN) — Full-stack MERN application with authentication and listings
 - 🔗 [Portfolio Website](https://github.com/tibdewalchahak/Portfolio-Website) — Responsive personal portfolio built with React, JavaScript & CSS
 - 🔗 [Stock Analyzer (C Project)](https://github.com/tibdewalchahak/Stock-Market-Analyzer) — Console-based app using arrays and file handling to analyze trends
-- 🔗 [Air Flight Management System](https://github.com/tibdewalchahak/Air-Flight-Management-System) — Implemented using Linked List and AVL Trees to manage bookings and operations
+- 🔗 [Air Flight Management System](https://github.com/tibdewalchahak/Air-Flight-Management-System) — Implemented using Linked List and AVL Trees to manage air flight management and operations
 
 ## 📫 Connect:
 [LinkedIn](https://www.linkedin.com/in/chahak-tibdewal-012149262/) 
