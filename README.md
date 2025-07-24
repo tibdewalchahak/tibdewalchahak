@@ -15,7 +15,7 @@
 - Other: Git, GitHub
 
 ## 📌 Featured Projects:
-
+- 🔗 [PDF QA using RAG](https://github.com/tibdewalchahak/Chatbot_for_PDF) — Ask questions over PDFs using Retrieval-Augmented Generation with FAISS and NLP
 - 🔗 [Real Estate Rental MERN App](https://github.com/tibdewalchahak/Real_Estate_Rental_MERN) — Full-stack MERN application with authentication and listings
 - 🔗 [Portfolio Website](https://github.com/tibdewalchahak/Portfolio-Website) — Responsive personal portfolio built with React, JavaScript & CSS
 - 🔗 [Stock Analyzer (C Project)](https://github.com/tibdewalchahak/Stock-Market-Analyzer) — Console-based app using arrays and file handling to analyze trends
